@@ -43,11 +43,12 @@ Explore more projects on my GitHub repositories.
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=Dann-coder21&theme=github-dark&hide_border=true&background=00000000" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&theme=vue&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Top Languages" width="45%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=github-compact&hide_border=true&bg_color=00000000" alt="Activity Graph" width="95%" />
 </p>
 Certifications
 AWS Educate: Machine Learning Fundamentals
