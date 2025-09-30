@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Daniel Kabue Maina</h1><h3 align="center">Full-Stack .NET Developer from Nairobi, Kenya</h3><p align="center"> <a href="mailto:kabuedann@gmail.com">Email</a> • <a href="https://github.com/Dann-coder21">GitHub</a> • <a href="#">LinkedIn</a> </p>
 About Me
-I'm a final-year Mathematics & Computer Science student graduating in 2025, with a focus on building scalable and secure web applications. I enjoy creating practical solutions that address real-world challenges through technology.
+I'm  passionate about software development and cloud computing with a focus on building scalable and secure software applications. I enjoy creating practical solutions that address real world challenges through technology.
 
-Currently working as a Software Developer at Auxica Africa, developing a secure Hospital Management System using C#, .NET, PostgreSQL, and Azure
+Currently working as a Software Developer Intern at Auxica Africa, developing a secure Hospital Management System using C#, .NET, PostgreSQL, and Azure
 
 Expanding my cloud expertise with ongoing Google Cloud Platform training
 
@@ -45,7 +45,7 @@ Reach me at: kabuedann@gmail.com
 > A secure, scalable hospital management platform streamlining healthcare operations
 - **Features:** Patient registration, appointment scheduling, pharmacy inventory, lab results management, role-based access
 - **Tech Stack:** C#, ASP.NET Core, Entity Framework, PostgreSQL, Azure App Services
-- **Key Achievements:** Implemented secure authentication, optimized database queries, deployed to Azure cloud
+- **Key Achievements:** Implemented secure authentication, optimized database queries, and deployed to Azure cloud
 
 #### <img src="https://img.icons8.com/color/24/000000/school.png" width="20" height="20"> School Inventory System  
 > Digital inventory management solution for educational institutions
