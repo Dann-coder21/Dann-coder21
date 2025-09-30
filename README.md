@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&height=40&lines=Hi,+I'm+Daniel+Kabue+Maina" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=2563EB&center=true&vCenter=true&width=550&height=40&lines=Hi,+I'm+Daniel+Kabue+Maina" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+.NET+Developer;Cloud+Architecture+Enthusiast;Mathematics+%26+CS+Student;Backend+Developer;Azure+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+.NET+Developer;Cloud+Architecture+Enthusiast;Mathematics+%26+CS+Student;Backend+Developer;Azure+Specialist" alt="Typing SVG" />
   </a>
 </h3>
 
