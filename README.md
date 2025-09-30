@@ -1,84 +1,59 @@
-<h1 align="center">Hi there, I'm Daniel Kabue Maina 👋</h1>
+<h1 align="center">Hi, I'm Daniel Kabue Maina</h1><h3 align="center">Full-Stack .NET Developer from Nairobi, Kenya</h3><p align="center"> <a href="mailto:kabuedann@gmail.com">Email</a> • <a href="https://github.com/Dann-coder21">GitHub</a> • <a href="#">LinkedIn</a> </p>
+About Me
+I'm a final-year Mathematics & Computer Science student graduating in 2025, with a focus on building scalable and secure web applications. I enjoy creating practical solutions that address real-world challenges through technology.
 
-<h3 align="center">A Passionate Full-Stack .NET Developer from Nairobi, Kenya</h3>
+Currently working as a Software Developer at Auxica Africa, developing a secure Hospital Management System using C#, .NET, PostgreSQL, and Azure
 
-<p align="center">
-  <a href="mailto:kabuedann@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Dann-coder21">💻 GitHub</a> •
-  <a href="[Your LinkedIn URL - Consider Adding!]">💼 LinkedIn</a>
-</p>
+Expanding my cloud expertise with ongoing Google Cloud Platform training
 
----
+Previously worked in ICT Support at Strathmore University, strengthening my technical troubleshooting skills
 
-### 🚀 About Me
+Interested in Backend Development, Cloud Architecture, and writing maintainable code
 
-I'm a final-year student of Mathematics & Computer Science, poised to graduate in 2025, and a dedicated software developer with a strong foundation in building scalable and secure web applications. I am passionate about leveraging technology to create practical, user-centric solutions for real-world problems.
+Reach me at: kabuedann@gmail.com
 
-- 🔭 I'm currently working as a **Software Developer** at **Auxica Africa**, building a secure Hospital Management System with **C#, .NET, PostgreSQL, and Azure**.
-- 🌱 I'm continuously expanding my cloud knowledge with ongoing training in **Google Cloud Platform**.
-- 💼 My previous experience includes an ICT Support role at **Strathmore University**, which honed my technical problem-solving and client-support skills.
-- 💡 I'm interested in **Backend Development, Cloud Architecture, and Clean Code**.
-- 📫 How to reach me: **kabuedann@gmail.com**
+Technical Skills
+Languages & Frameworks:
+C# • .NET • JavaScript • React.js • Next.js • Node.js • Express.js
 
----
+Databases:
+PostgreSQL • MySQL
 
-### 🛠️ Tech Stack
+Cloud & DevOps:
+Microsoft Azure • Vercel • Docker
 
-Here are some of the technologies and tools I work with:
+Tools:
+Git & GitHub • REST APIs • Postman • Visual Studio • VS Code • Linux
 
-**Languages & Frameworks:**
-`C#` • `.NET` • `JavaScript (ES6+)` • `React.js` • `Next.js` • `Node.js` • `Express.js`
+Projects
+Hospital Management System
+A comprehensive HMS with patient registration, appointment scheduling, and pharmacy/lab modules built with C#, .NET, PostgreSQL, and Azure.
 
-**Databases:**
-`PostgreSQL` • `MySQL`
+School Inventory System
+A role-based inventory management platform for educational institutions using React, Node.js, and MySQL.
 
-**Cloud & DevOps:**
-`Microsoft Azure` • `Vercel` • `Docker`
+Livestock Management System
+An end-to-end solution for tracking livestock health, feeding schedules, and generating analytical reports with React, Node.js, and MySQL.
 
-**Tools:**
-`Git & GitHub` • `REST APIs` • `Postman` • `Visual Studio` • `VS Code` • `Linux`
+E-commerce Platform
+An electronics store featuring product catalogs, shopping cart, and checkout functionality built with Next.js.
 
----
+Explore more projects on my GitHub repositories.
 
-### 💻 Featured Projects
+GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&theme=default&hide_title=true&hide_border=true" alt="Top Languages" width="41%" /> </p>
+Certifications
+AWS Educate: Machine Learning Fundamentals
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🏥 Hospital Management System** | A secure HMS with patient registration, appointments, and pharmacy/lab modules. | C#, .NET, PostgreSQL, Azure |
-| **🏫 School Inventory System** | A role-based inventory management system for staff and students. | React, Node.js, MySQL |
-| **🐄 Livestock Management System** | An end-to-end system for tracking livestock health, feeding schedules, and generating reports. | React, Node.js, MySQL |
-| **🛒 E-commerce Platform** | An electronics store featuring product listings, a shopping cart, and checkout. | Next.js |
+Google Cloud Platform: Digital Leader Training (In Progress)
 
-> *For more projects, check out my [GitHub Repositories](https://github.com/Dann-coder21?tab=repositories).*
+Contact
+I'm always interested in discussing new opportunities, collaborating on projects, or connecting with fellow developers.
 
----
+Email: kabuedann@gmail.com
 
-### 📊 GitHub Stats
+Phone: +254 740 120 470
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&theme=default&hide_title=true" alt="Daniel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&theme=default&hide_title=true" alt="Top Languages" />
-</p>
+GitHub: github.com/Dann-coder21
 
----
-
-### 📜 Certifications
-
-- **AWS Educate:** Machine Learning Fundamentals
-- **Google Cloud Platform:** Digital Leader Training *(Ongoing)*
-
----
-
-### 🤝 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a tech chat.
-
-- **Email:** kabuedann@gmail.com
-- **Phone:** +254 740 120 470
-- **GitHub:** [github.com/Dann-coder21](https://github.com/Dann-coder21)
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! Have a great day! 😄</i>
-</p>
+<p align="center"> Thanks for stopping by my profile! </p>
