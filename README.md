@@ -68,7 +68,7 @@ Reach me at: kabuedann@gmail.com
 > Digital inventory management solution for educational institutions
 - **Features:** Role-based access (admin/staff/student), asset tracking, request management, reporting dashboard
 - **Tech Stack:** React.js, Node.js, Express.js, MySQL, JWT Authentication
-- **Key Achievements:** Reduced inventory management time by 40%, implemented real-time updates
+- **Key Achievements:** Reduced inventory management time by 40%, implemented real time updates
 
 #### <img src="https://img.icons8.com/color/24/000000/cow.png" width="20" height="20"> Livestock Management System
 > End-to-end farm management platform for modern agriculture
