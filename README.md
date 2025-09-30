@@ -1,4 +1,14 @@
-<h1 align="center">Hi, I'm Daniel Kabue Maina</h1><h3 align="center">Full-Stack .NET Developer from Nairobi, Kenya</h3><p align="center"> <a href="mailto:kabuedann@gmail.com">Email</a> • <a href="https://github.com/Dann-coder21">GitHub</a> • <a href="#">LinkedIn</a> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1500&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Hi,+I'm+Daniel+Kabue+Maina" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h3 align="center">
+  <span style="background: linear-gradient(45deg, #2563eb, #7c3aed); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">
+    Full-Stack .NET Developer from Nairobi, Kenya
+  </span>
+</h3><p align="center"> <a href="mailto:kabuedann@gmail.com">Email</a> • <a href="https://github.com/Dann-coder21">GitHub</a> • <a href="#">LinkedIn</a> </p>
 About Me
 I'm  passionate about software development and cloud computing with a focus on building scalable and secure software applications. I enjoy creating practical solutions that address real world challenges through technology.
 
