@@ -27,7 +27,9 @@ Currently, I am a **Software Developer Intern at Auxica Africa**, where I work o
 - Former **ICT Support at Strathmore University**, strengthening technical troubleshooting skills  
 - Interests: **Backend Development, Cloud Architecture, Writing maintainable code**  
 
-📩 Reach me at: **kabuedann@gmail.com**
+📩 Reach me at:  
+[![Email](https://img.shields.io/badge/Email-kabuedann%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kabuedann@gmail.com)
+
 
 ---
 
