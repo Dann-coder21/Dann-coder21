@@ -85,12 +85,14 @@ Currently, I am a **Software Developer Intern at Auxica Africa**, where I work o
 
 ---
 
+
 ## Contact  
 
- **Email:** kabuedann@gmail.com  
- **Phone:** +254 740 120 470  
- **Portfolio:** https://dannmaina.vercel.app/
-**GitHub:** [Dann-coder21](https://github.com/Dann-coder21) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabuedann@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254740120470)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dannmaina.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dann-coder21)
+
 
 
 <p align="center"><b> Thanks for visiting my profile! </b></p>
