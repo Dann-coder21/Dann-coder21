@@ -14,14 +14,14 @@ Reach me at: kabuedann@gmail.com
 
 ### Technical Skills
 
-**Languages & Frameworks:**
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+**Languages & Frameworks:**  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
 Databases:
 PostgreSQL • MySQL
