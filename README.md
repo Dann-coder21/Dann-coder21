@@ -12,9 +12,16 @@ Interested in Backend Development, Cloud Architecture, and writing maintainable 
 
 Reach me at: kabuedann@gmail.com
 
-Technical Skills
-Languages & Frameworks:
-C# • .NET • JavaScript • React.js • Next.js • Node.js • Express.js
+### Technical Skills
+
+**Languages & Frameworks:**
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 
 Databases:
 PostgreSQL • MySQL
@@ -50,10 +57,6 @@ Explore more projects on my GitHub repositories.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=github-compact&hide_border=true&bg_color=00000000" alt="Activity Graph" width="95%" />
 </p>
-Certifications
-AWS Educate: Machine Learning Fundamentals
-
-Google Cloud Platform: Digital Leader Training (In Progress)
 
 Contact
 I'm always interested in discussing new opportunities, collaborating on projects, or connecting with fellow developers.
