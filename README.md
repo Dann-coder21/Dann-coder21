@@ -1,101 +1,185 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=1D4ED8&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Daniel+Kabue+Maina" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=2000&color=1D4ED8&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Daniel+Kabue+Maina" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1500&color=9333EA&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+.NET+Developer;Cloud+Architecture+Enthusiast;Mathematics+%26+CS+Student;Backend+Developer;Azure+Specialist" alt="Typing SVG" />
+  Full Stack Developer | ASP.NET Core | React | Docker | Azure
 </h3>
 
 <p align="center">
-  <em>From Nairobi, Kenya 🇰🇪</em>
+  Nairobi, Kenya
 </p>
 
 <p align="center">
-  <a href="mailto:kabuedann@gmail.com"><b>Email</b></a> • 
-  <a href="https://github.com/Dann-coder21"><b>GitHub</b></a> • 
-  <a href="#"><b>LinkedIn</b></a>
+  <a href="mailto:kabuedann@gmail.com">Email</a> •
+  <a href="https://github.com/Dann-coder21">GitHub</a> •
+  <a href="https://linkedin.com/in/danielkmaina">LinkedIn</a>
 </p>
 
 ---
 
-## About Me  
+<h2 align="center">About Me</h2>
 
-I am passionate about **software development** and **cloud computing**, with a focus on building scalable and secure applications.  
-Currently, I am a **Software Developer Intern at Auxica Africa**, where I work on developing a secure Hospital Management System using **C#, .NET, PostgreSQL, and Azure**.  
+I'm a Full Stack Developer passionate about building scalable web applications, cloud-native solutions, and healthcare systems.
 
-- Expanding expertise with **Google Cloud Platform training**  
-- Former **ICT Support at Strathmore University**, strengthening technical troubleshooting skills  
-- Interests: **Backend Development, Cloud Architecture, Writing maintainable code**  
+Currently working as a **Software Developer Intern at Auxica Africa**, where I contribute to the development of a Healthcare Management System using ASP.NET Core, React, PostgreSQL, Docker, GitHub Actions, and Microsoft Azure.
 
-**Reach me at:**
- 
-[![Email](https://img.shields.io/badge/Email-kabuedann%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kabuedann@gmail.com)
-
-
----
-
-## Technical Skills  
-
-**Languages & Frameworks**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Building scalable REST APIs with ASP.NET Core
+- Designing and optimizing PostgreSQL databases
+- Developing modern React applications
+- Containerizing applications with Docker
+- Automating deployments with GitHub Actions
+- Deploying applications on Microsoft Azure
+- Writing maintainable, production-ready code
 
 ---
 
-## Featured Projects  
+<h2 align="center">Experience</h2>
 
-| Project | Description | Tech Stack | Key Highlights |
-|---------|-------------|------------|----------------|
-| **Hospital Management System** | A secure, scalable hospital management platform streamlining healthcare operations | C#, ASP.NET Core, EF Core, PostgreSQL, Azure | Secure authentication, optimized queries, deployed to Azure |
-| **School Inventory System** | Digital inventory management solution for educational institutions | React, Node.js, Express.js, MySQL, JWT | Reduced inventory management time by 40%, real-time updates |
-| **Livestock Management System** | End-to-end farm management platform for modern agriculture | React, Node.js, MySQL, Chart.js, REST APIs | Improved livestock tracking efficiency, actionable insights |
-| **E-commerce Platform** | Modern electronics e-commerce store with seamless UX | Next.js, React Context API, CSS Modules, Vercel | SSR optimization, responsive design |
+### Software Developer Intern | Auxica Africa
+
+- Developed and deployed REST APIs using ASP.NET Core
+- Designed and optimized PostgreSQL database schemas
+- Built React modules for scheduling, billing, and laboratory workflows
+- Containerized applications using Docker
+- Implemented CI/CD pipelines using GitHub Actions
+- Assisted in Azure deployments and infrastructure management
+- Documented APIs using Swagger
+- Fixed production bugs and improved system reliability
 
 ---
 
-## GitHub Analytics  
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="24" />
+  Tech Stack
+</h2>
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
+</p>
+
+### DevOps & Cloud
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+</p>
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+### Healthcare Management System
+
+Healthcare platform supporting:
+
+- Patient Management
+- Appointment Scheduling
+- Laboratory Results
+- Billing Operations
+
+**Stack:** ASP.NET Core, React, PostgreSQL, Docker, Azure, GitHub Actions, Entity Framework Core
+
+### School Inventory Management System
+
+Full-stack inventory solution developed as a final-year project.
+
+**Highlights**
+
+- Reduced report generation time by 60%
+- Improved asset tracking and inventory management
+
+**Stack:** ASP.NET Core, React, MySQL, Entity Framework Core
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" />
+  GitHub Analytics
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&theme=transparent&hide_border=true" width="41%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dann-coder21&theme=transparent" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="24" />
+  Currently Learning
+</h2>
 
-## Contact  
+- Advanced ASP.NET Core
+- Cloud Architecture on Azure
+- Kubernetes
+- Microservices Architecture
+- System Design
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabuedann@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254740120470)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dannmaina.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dann-coder21)
+---
 
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />
+  Connect With Me
+</h2>
 
+<p align="center">
+  <a href="mailto:kabuedann@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 
-<p align="center"><b> Thanks for visiting my profile! </b></p>
+  <a href="https://linkedin.com/in/danielkmaina">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Dann-coder21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://dannmaina.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable software and solving real-world problems through code.</i>
+</p>
