@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | ASP.NET Core | React | Python & Django | Exploring Laravel & Vue | Azure
+  Full Stack Developer | ASP.NET Core | React | Laravel & Vue | Exploring Python & Django | Azure
 </h3>
 
 <p align="center">
@@ -32,8 +32,8 @@ I enjoy solving real world problems through software, designing efficient backen
 - Containerizing applications using Docker
 - Automating deployments with GitHub Actions
 - Deploying and managing applications on Microsoft Azure
-- Growing my backend skills with Python and Django
-- Currently exploring Laravel and Vue.js to broaden my full stack toolkit
+- Building full stack applications with Laravel and Vue.js
+- Currently exploring Python and Django to broaden my backend toolkit
 
 ---
 
@@ -65,8 +65,8 @@ I enjoy solving real world problems through software, designing efficient backen
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
 <p align="center">
@@ -94,8 +94,8 @@ I enjoy solving real world problems through software, designing efficient backen
 <p align="center"><i>Currently exploring</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
@@ -137,23 +137,31 @@ ASP.NET Core • React • MySQL • Entity Framework Core
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1D4ED8&icon_color=1D4ED8&text_color=C9D1D9&ring_color=1D4ED8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&hide_border=true&background=0D1117&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8&sideNums=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=react-dark&hide_border=true&bg_color=0D1117&color=1D4ED8&line=1D4ED8&point=C9D1D9" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---
 
 <h2 align="center">Currently Learning</h2>
 
-- Python
-- Django
-- Django REST Framework
-- Laravel *(exploring)*
-- Vue.js *(exploring)*
+- Python *(exploring)*
+- Django *(exploring)*
+- Django REST Framework *(exploring)*
+- Laravel
+- Vue.js
 - Advanced ASP.NET Core
 - Cloud Architecture on Azure
 - Kubernetes
