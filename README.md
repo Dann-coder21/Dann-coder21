@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | ASP.NET Core | React | Python | Django | Azure
+  Full Stack Developer | ASP.NET Core | React | Python & Django | Exploring Laravel & Vue | Azure
 </h3>
 
 <p align="center">
@@ -32,7 +32,8 @@ I enjoy solving real world problems through software, designing efficient backen
 - Containerizing applications using Docker
 - Automating deployments with GitHub Actions
 - Deploying and managing applications on Microsoft Azure
-- Learning Python and Django for modern backend development
+- Growing my backend skills with Python and Django
+- Currently exploring Laravel and Vue.js to broaden my full stack toolkit
 
 ---
 
@@ -90,6 +91,13 @@ I enjoy solving real world problems through software, designing efficient backen
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<p align="center"><i>Currently exploring</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+</p>
+
 ---
 
 <h2 align="center">Featured Projects</h2>
@@ -144,6 +152,8 @@ ASP.NET Core • React • MySQL • Entity Framework Core
 - Python
 - Django
 - Django REST Framework
+- Laravel *(exploring)*
+- Vue.js *(exploring)*
 - Advanced ASP.NET Core
 - Cloud Architecture on Azure
 - Kubernetes
