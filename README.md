@@ -316,10 +316,16 @@ My current priority is strengthening my Python and Django backend engineering sk
   </picture>
 </p>
 
-### Contribution Activity
+### Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/41B883/Dann-coder21" alt="Daniel's GitHub Contribution Graph" width="100%" />
+  <a href="https://github.com/Dann-coder21">
+    <img
+      src="https://ghchart.rshah.org/41B883/Dann-coder21"
+      alt="Daniel's GitHub contribution heatmap"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
