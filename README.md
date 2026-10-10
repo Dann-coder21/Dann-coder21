@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Development | Laravel & Vue.js | Backend Engineering | Python & Django
+  Full-Stack Developer | Laravel & Vue.js | Backend Engineering
 </h3>
 
 <p align="center">
@@ -60,16 +60,16 @@ I'm currently expanding my backend development skills through Python, Django, an
 
 **July 2026 – Present | Nairobi, Kenya**
 
-Developing and maintaining a campus maintenance management system used by university departments to report, assign, track, and resolve maintenance issues.
+Developing a campus maintenance management system designed to help university departments report, assign, track, and resolve maintenance issues.
 
-- Built administrative and staff portals using Laravel 11, Filament PHP, and PostgreSQL.
+- Developed administrative and staff interfaces using Laravel 11, Filament PHP, and PostgreSQL.
 - Implemented role-based access control using Spatie Laravel Permission for staff, technicians, and administrators.
 - Automated ticket creation from incoming Microsoft 365 emails, including duplicate prevention and status notifications.
 - Implemented real-time ticket updates and in-browser notifications using Laravel Reverb and Laravel Echo.
 - Developed SLA tracking and analytics dashboards to monitor ticket resolution times and staff workloads.
 - Integrated LDAP with the university staff directory to support institutional authentication.
 - Implemented QR code generation so campus users can scan equipment or room labels to submit maintenance requests.
-- Configured development and deployment environments using Docker Compose, including Laravel, PostgreSQL, Nginx, Redis, and background queue workers.
+- Configured application services using Docker Compose, including Laravel, PostgreSQL, Nginx, Redis, and background queue workers.
 
 **Technologies:** Laravel, PHP, Filament PHP, PostgreSQL, Redis, Docker Compose, Laravel Reverb, Laravel Echo, Spatie Laravel Permission, LDAP.
 
@@ -121,8 +121,8 @@ A web application designed to improve how university departments submit, assign,
 **Technology Stack**
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Filament-EBB417?style=for-the-badge&logo=filament&logoColor=black" alt="Filament" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -157,13 +157,13 @@ A healthcare application supporting patient information management and essential
 
 ### 3. Django Task Management API
 
-A learning project focused on building a structured backend application using Python, Django, and Django REST Framework.
+A learning project focused on building a structured backend application using Python, Django, Django REST Framework, and PostgreSQL.
 
 **Learning Objectives**
 
 - Designing Django models and database relationships.
 - Managing database migrations.
-- Building API endpoints and handling HTTP requests.
+- Building REST API endpoints.
 - Understanding serializers and data validation.
 - Integrating Django with PostgreSQL.
 - Separating business logic into maintainable components.
@@ -202,8 +202,8 @@ ASP.NET Core, C#, React, MySQL, Entity Framework Core.
 ### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Filament-EBB417?style=for-the-badge&logo=filament&logoColor=black" alt="Filament" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -263,14 +263,16 @@ My current priority is strengthening my Python and Django backend engineering sk
 
 ## GitHub Contribution Calendar
 
-The contribution calendar below displays your GitHub activity throughout the year.
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/41B883/Dann-coder21" alt="Daniel Maina's GitHub contribution heatmap" width="100%" />
+  <img
+    src="https://ghchart.rshah.org/41B883/Dann-coder21"
+    alt="Daniel Maina's GitHub contribution calendar"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dann-coder21?tab=overview&from=2026-01-01&to=2026-12-31">
+  <a href="https://github.com/Dann-coder21?tab=overview">
     View GitHub Contributions
   </a>
 </p>
@@ -280,26 +282,117 @@ The contribution calendar below displays your GitHub activity throughout the yea
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&hide_border=true&bg_color=0D1117&title_color=41B883&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=41B883&icon_color=41B883&text_color=C9D1D9&rank_icon=github"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=218B70&icon_color=218B70&text_color=24292F&rank_icon=github"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=Dann-coder21&show_icons=true&hide_border=true"
+      alt="GitHub statistics"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&hide_border=true&bg_color=0D1117&title_color=41B883&text_color=C9D1D9&langs_count=8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=218B70&text_color=24292F&langs_count=8"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dann-coder21&layout=compact&hide_border=true"
+      alt="Most used programming languages"
+    />
+  </picture>
 </p>
 
 ### Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&sideNums=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&sideNums=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&hide_border=true&background=FFFFFF&ring=218B70&fire=218B70&currStreakLabel=218B70&sideNums=24292F&sideLabels=57606A&currStreakNum=24292F&dates=57606A"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21"
+      alt="GitHub contribution streak"
+    />
+  </picture>
 </p>
 
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=react-dark&hide_border=true&bg_color=0D1117&color=41B883&line=41B883&point=C9D1D9" width="100%" alt="GitHub Activity Graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=react-dark&hide_border=true&bg_color=0D1117&color=41B883&line=41B883&point=C9D1D9"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=minimal&hide_border=true&bg_color=FFFFFF&color=218B70&line=218B70&point=24292F"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21"
+      width="100%"
+      alt="GitHub contribution activity graph"
+    />
+  </picture>
 </p>
 
 ### GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Profile Trophies" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
+    />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Dann-coder21&no-frame=true&row=1&column=6"
+      alt="GitHub profile trophies"
+    />
+  </picture>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/github-contribution-grid-snake.svg"
+      alt="Animated GitHub contribution snake"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
