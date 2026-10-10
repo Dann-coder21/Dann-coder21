@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1500&color=41B883&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Daniel+Maina;Laravel+%26+Vue.js+Developer;Backend+Engineering;Python+%26+Django+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1500&color=41B883&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Daniel+Maina;Laravel+%26+Vue.js+Developer;Backend+Engineering;Python+%26+Django+Learner" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -264,11 +264,21 @@ My current priority is strengthening my Python and Django backend engineering sk
 ## GitHub Contribution Calendar
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/41B883/Dann-coder21"
-    alt="Daniel Maina's GitHub contribution calendar"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://ghchart.rshah.org/41B883/Dann-coder21"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://ghchart.rshah.org/218B70/Dann-coder21"
+    />
+    <img
+      src="https://ghchart.rshah.org/218B70/Dann-coder21"
+      alt="Daniel Maina's GitHub contribution calendar"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <p align="center">
@@ -321,14 +331,14 @@ My current priority is strengthening my Python and Django backend engineering sk
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&sideNums=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E"
+      srcset="https://streak-stats.demolab.com/?user=Dann-coder21&hide_border=true&background=0D1117&ring=41B883&fire=41B883&currStreakLabel=41B883&sideNums=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21&hide_border=true&background=FFFFFF&ring=218B70&fire=218B70&currStreakLabel=218B70&sideNums=24292F&sideLabels=57606A&currStreakNum=24292F&dates=57606A"
+      srcset="https://streak-stats.demolab.com/?user=Dann-coder21&hide_border=true&background=FFFFFF&ring=218B70&fire=218B70&currStreakLabel=218B70&sideNums=24292F&sideLabels=57606A&currStreakNum=24292F&dates=57606A"
     />
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Dann-coder21"
+      src="https://streak-stats.demolab.com/?user=Dann-coder21&hide_border=true"
       alt="GitHub contribution streak"
     />
   </picture>
@@ -347,7 +357,7 @@ My current priority is strengthening my Python and Django backend engineering sk
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=minimal&hide_border=true&bg_color=FFFFFF&color=218B70&line=218B70&point=24292F"
     />
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&hide_border=true"
       width="100%"
       alt="GitHub contribution activity graph"
     />
@@ -367,30 +377,8 @@ My current priority is strengthening my Python and Django backend engineering sk
       srcset="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
     />
     <img
-      src="https://github-profile-trophy.vercel.app/?username=Dann-coder21&no-frame=true&row=1&column=6"
+      src="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
       alt="GitHub profile trophies"
-    />
-  </picture>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/github-contribution-grid-snake.svg"
-      alt="Animated GitHub contribution snake"
-      width="100%"
     />
   </picture>
 </p>
