@@ -316,6 +316,12 @@ My current priority is strengthening my Python and Django backend engineering sk
   </picture>
 </p>
 
+### Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/41B883/Dann-coder21" alt="Daniel's GitHub Contribution Graph" width="100%" />
+</p>
+
 ---
 
 ## Education
