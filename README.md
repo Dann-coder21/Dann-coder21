@@ -316,16 +316,6 @@ My current priority is strengthening my Python and Django backend engineering sk
   </picture>
 </p>
 
-### Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
 ---
 
 ## Education
