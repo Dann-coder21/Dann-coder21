@@ -1,9 +1,12 @@
-name: Generate Contribution Snake
+name: Generate Contribution Graph
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -11,17 +14,21 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Dann-coder21
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-      - name: Publish snake animation
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate contribution graph SVGs
+        run: python .github/scripts/generate_contributions.py dist
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Publish SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
