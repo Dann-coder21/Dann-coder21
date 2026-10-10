@@ -261,34 +261,6 @@ My current priority is strengthening my Python and Django backend engineering sk
 
 ---
 
-## GitHub Contribution Calendar
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://ghchart.rshah.org/41B883/Dann-coder21"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://ghchart.rshah.org/218B70/Dann-coder21"
-    />
-    <img
-      src="https://ghchart.rshah.org/218B70/Dann-coder21"
-      alt="Daniel Maina's GitHub contribution calendar"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dann-coder21?tab=overview">
-    View GitHub Contributions
-  </a>
-</p>
-
----
-
 ## GitHub Statistics
 
 <p align="center">
@@ -347,40 +319,22 @@ My current priority is strengthening my Python and Django backend engineering sk
 ### Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=react-dark&hide_border=true&bg_color=0D1117&color=41B883&line=41B883&point=C9D1D9"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=minimal&hide_border=true&bg_color=FFFFFF&color=218B70&line=218B70&point=24292F"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&hide_border=true"
-      width="100%"
-      alt="GitHub contribution activity graph"
-    />
-  </picture>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dann-coder21&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>cture>
 </p>
 
 ### GitHub Profile Trophies
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
-    />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"
-      alt="GitHub profile trophies"
-    />
-  </picture>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Dann-coder21&theme=flat&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub profile trophies"
+    width="100%"
+  />
 </p>
 
 ---
