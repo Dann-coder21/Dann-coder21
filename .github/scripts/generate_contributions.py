@@ -34,8 +34,9 @@ THEMES = {
 }
 
 
-def fetch(user):
-    url = f"https://github.com/users/{user}/contributions"
+def fetch(user, year):
+    url = (f"https://github.com/users/{user}/contributions"
+           f"?from={year}-01-01&to={year}-12-31")
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return resp.read().decode("utf-8")
@@ -66,13 +67,14 @@ def parse(page):
             "count": counts.get(cid.group(1), 0),
         })
 
-    total = re.search(r"([\d,]+)\s+contributions?\s+in the last year", page)
+    total = re.search(
+        r"([\d,]+)\s+contributions?\s+in\s+(?:the last year|\d{4})", page)
     total = int(total.group(1).replace(",", "")) if total else sum(
         c["count"] for c in cells)
     return cells, total
 
 
-def render(cells, total, theme):
+def render(cells, total, theme, year):
     t = THEMES[theme]
     cols = max(c["col"] for c in cells) + 1
     width = LEFT + cols * STEP + 12
@@ -81,15 +83,17 @@ def render(cells, total, theme):
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" '
         f'height="{height}" viewBox="0 0 {width} {height}" role="img" '
-        f'aria-label="{total} contributions in the last year">',
+        f'aria-label="{total} contributions in {year}">',
         '<style>text{font-family:-apple-system,BlinkMacSystemFont,'
         '"Segoe UI",Helvetica,Arial,sans-serif}</style>',
         f'<text x="{LEFT}" y="22" font-size="15" fill="{t["title"]}">'
-        f'{total:,} contributions in the last year</text>',
+        f'{total:,} contributions in {year}</text>',
     ]
 
     # Month labels: first column whose Sunday falls in a new month.
-    first_by_col = {c["col"]: c["date"] for c in cells if c["row"] == 0}
+    first_by_col = {}
+    for c in sorted(cells, key=lambda c: (c["col"], c["row"])):
+        first_by_col.setdefault(c["col"], c["date"])
     labels, prev = [], None
     for col in sorted(first_by_col):
         month = first_by_col[col].month
@@ -139,15 +143,20 @@ def render(cells, total, theme):
 
 
 def main():
-    cells, total = parse(fetch(USER))
-    if not cells:
-        sys.exit("No contribution cells found; GitHub markup may have changed.")
+    this_year = date.today().year
+    years = [int(y) for y in os.environ.get(
+        "YEARS", f"{this_year},{this_year - 1}").split(",")]
     os.makedirs(OUT_DIR, exist_ok=True)
-    for theme in THEMES:
-        path = os.path.join(OUT_DIR, f"contributions-{theme}.svg")
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(render(cells, total, theme))
-        print("wrote", path)
+    for year in years:
+        cells, total = parse(fetch(USER, year))
+        if not cells:
+            sys.exit(f"No contribution cells found for {year}; "
+                     "GitHub markup may have changed.")
+        for theme in THEMES:
+            path = os.path.join(OUT_DIR, f"contributions-{year}-{theme}.svg")
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(render(cells, total, theme, year))
+            print("wrote", path, f"({total} contributions)")
 
 
 if __name__ == "__main__":
