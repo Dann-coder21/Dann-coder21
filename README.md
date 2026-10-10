@@ -318,23 +318,29 @@ My current priority is strengthening my Python and Django backend engineering sk
 
 ### Contribution Activity
 
+<p align="center"><i>Click a year to expand it.</i></p>
+
+<details open>
+<summary><b>2026</b></summary>
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-light.svg"
-    />
-    <img
-      alt="GitHub contribution graph"
-      src="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-light.svg"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-2026-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-2026-light.svg" />
+    <img alt="GitHub contributions in 2026" src="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-2026-light.svg" width="100%" />
   </picture>
 </p>
+</details>
+
+<details>
+<summary><b>2025</b></summary>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-2025-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-2025-light.svg" />
+    <img alt="GitHub contributions in 2025" src="https://raw.githubusercontent.com/Dann-coder21/Dann-coder21/output/contributions-2025-light.svg" width="100%" />
+  </picture>
+</p>
+</details>
 
 ---
 
