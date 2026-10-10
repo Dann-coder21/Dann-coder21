@@ -324,7 +324,6 @@ My current priority is strengthening my Python and Django backend engineering sk
     width="100%"
     alt="GitHub contribution activity graph"
   />
-</p>cture>
 </p>
 
 ### GitHub Profile Trophies
