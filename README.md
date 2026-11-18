@@ -245,15 +245,6 @@ My current priority is strengthening my PHP knowledge and becoming more confiden
 
 ---
 
-## GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/41b883/Dann-coder21"
-    alt="Daniel's GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
 
 ---
 
