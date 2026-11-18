@@ -80,14 +80,6 @@ Contributed to the development of a healthcare management system supporting comm
 
 **Technologies:** C#, ASP.NET Core, React, PostgreSQL, Entity Framework Core, Docker, GitHub Actions, Swagger.
 
-### ICT Support Technician | Strathmore University
-
-**May 2024 – August 2024 | Nairobi, Kenya**
-
-- Assisted with ICT support and technical troubleshooting.
-- Supported technology deployments and followed up on technical issues.
-- Helped users identify problems and coordinate resolutions.
-
 ---
 
 ## Featured Projects
@@ -98,13 +90,12 @@ A web application designed to improve how university departments submit, assign,
 
 **Key Features**
 
-- Role-based access control for different staff roles.
+- Role based access control for different staff roles.
 - Automatic ticket creation from Microsoft 365 emails.
-- Duplicate ticket prevention and status notifications.
-- Real-time updates using WebSockets.
+- Real time updates using WebSockets.
 - SLA monitoring and performance dashboards.
 - LDAP integration with the university staff directory.
-- QR code-based maintenance request submission.
+- QR code based maintenance request submission.
 - Background processing for asynchronous tasks.
 - Containerized application services using Docker Compose.
 
@@ -152,7 +143,7 @@ A learning project focused on building a structured backend application using Py
 - Building REST API endpoints.
 - Understanding serializers and data validation.
 - Integrating Django with PostgreSQL.
-- Separating business logic into maintainable components.
+- Separating business logic with the rest of the code
 - Writing automated tests.
 
 **Technology Stack**
@@ -168,14 +159,14 @@ This project is currently under development.
 
 ### 4. School Inventory Management System
 
-A full-stack inventory management application developed as an academic project.
+A full stack inventory management application developed as an academic project.
 
 **Key Features**
 
 - Inventory and asset tracking.
 - Inventory reporting.
-- Role-based access control.
-- Database-backed inventory management.
+- Role based access control.
+- Database backed inventory management.
 
 **Technology Stack:** ASP.NET Core, C#, React, MySQL, Entity Framework Core.
 
@@ -232,7 +223,7 @@ A full-stack inventory management application developed as an academic project.
 
 My current priority is strengthening my PHP knowledge and becoming more confident in building maintainable backend applications with Laravel.
 
-- PHP fundamentals and object-oriented programming.
+- PHP fundamentals and object oriented programming.
 - Namespaces, traits, interfaces, and dependency injection.
 - Laravel routing, controllers, middleware, and service container.
 - Eloquent ORM, relationships, and database migrations.
@@ -256,15 +247,6 @@ My current priority is strengthening my PHP knowledge and becoming more confiden
 
 Currently completing my degree.
 
-Relevant areas of study:
-
-- Data Structures and Algorithms
-- Database Systems
-- Software Engineering
-- Computer Networks
-- Web Application Development
-- Mathematics and Computational Problem Solving
-
 ---
 
 ## Connect With Me
@@ -285,5 +267,5 @@ Relevant areas of study:
 </p>
 
 <p align="center">
-  Building practical software, solving real-world problems, and growing as a backend engineer.
+  Building practical software, solving real world problems using software, and growing as a backend engineer.
 </p>
