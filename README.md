@@ -33,7 +33,7 @@ I'm a developer based in Nairobi, Kenya, interested in building reliable applica
 
 My experience includes developing a university maintenance management system using Laravel, Filament PHP, PostgreSQL, Redis, and Docker. I've also worked with ASP.NET Core, React, and healthcare management systems.
 
-I enjoy working on backend functionality, including database design, REST APIs, authentication, authorization, integrations, background jobs, and real-time communication.
+I enjoy working on backend functionality, including database design, REST APIs, authentication, authorization, integrations, background jobs, and real time communication.
 
 I'm currently strengthening my PHP and Laravel skills while building practical projects and improving my understanding of software architecture.
 
