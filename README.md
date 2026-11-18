@@ -29,7 +29,7 @@
 
 ## About Me
 
-I'm a developer based in Nairobi, Kenya, interested in building reliable applications and well-structured backend systems.
+I'm a developer based in Nairobi, Kenya, interested in building reliable applications and well structured backend systems.
 
 My experience includes developing a university maintenance management system using Laravel, Filament PHP, PostgreSQL, Redis, and Docker. I've also worked with ASP.NET Core, React, and healthcare management systems.
 
